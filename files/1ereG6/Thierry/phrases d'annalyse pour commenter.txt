@@ -1,0 +1,47 @@
+PS1='\e[4;41;30m\u@\h \e[0;41;30m\w $ \e[1;41;30m'
+PS1='\e[4;47;30m\u@\h \e[0;47;30m\w $ \e[1;47;30m' (b: white, w: black)
+PS1='\e[4;40;37m\u@\h \e[0;40;37m\w $ \e[1;40;37m' (b: black, w: white)
+
+1 tout est difficile avant d'être simple fuller
+
+2 La vie, c'est comme une bicyclette, il faut avancer pour ne pas perdre l'équilibre. Einstein
+
+3 On n'est jamais trompé, on se trompe soi-même goethe
+
+4 L'éducation doit être l'école du respet Flaubert
+
+L'éducation doit être l'école du respet Flaubert
+
+Pb: En quoi l'éduation doit-elle être l'école du respet.
+
+I de l'éducation au respect #l'éducation un pillier fondamental
+	A) l'éducation commence au berceau # Vital pour vivre
+		1) #pour pouvoir participer dans des conversations
+		2) #pour pouvoir participer dans la vie politique
+	B) elle se termine au tombeau #mais quelle éducation?
+		1) #les jeunesses hitleriennes: l'éducation manipulée
+		2) #pour ne pas croire tout ce que l'on nous dit
+	C) l'école de la république à la rescousse de l'éducation #Pour progresser dans son travail
+		1) #Pour pour pouvoir apprendre à apprendre
+		2) #Pour pouvoir savoir gérrer des moments de stress tout en gardant son calme.
+
+II Mais quel éducation pour quel respet #l'école un moyen de transmette
+	A) l'éducation manipulée #un moyen d'enseigner
+		1) les jeunesse hitleriennes #un moyen d'éduquer
+		2) #un moyen d'émerveiller
+	B) Le respet mis à mal dans nombre d'éducation (famille d'alcooliques, ruches, parent non éduqués) #Un moyen d'amuser
+		1) #enseigner par le jeux
+		2) #enseigner par l'humour
+	C) pour transmettre l'éducation, faut-il en avoir reçu #Un moyen d'éclairer
+		1) #aider par le transfer de connaissaces
+		2) #aider par les exercices
+III le respet essentiel à l'aprentissage #le respet essentiel à l'aprentissage
+	A) Le respet du temps #Le resptect essentiel à la concentration
+		1) #La concentration essentiel à l'apprentissage
+		2) #la concentraton mène au respet mais aussi a créé de bon liens
+	B) Le respet des gens #Le respet essentiel à la bonne entente
+		1) respet essentiel à l'amitié
+		2) repset essentiel à l'entraide
+	C) Le respet de soi va avec le respet de l'autre #Le respet essentiel dans l'amitié
+		1) l'amitié, la clé à l'entraide
+		2) le respet essentiel à l'entraide et à l'aprentissage.
